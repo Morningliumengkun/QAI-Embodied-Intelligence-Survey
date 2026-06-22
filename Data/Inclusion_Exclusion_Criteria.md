@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>The publication date falls within the past 10 years.</td>
+    <td>The publication date falls between 2015 and 2026.</td>
   </tr>
   <tr>
     <td>5</td>
