@@ -1,11 +1,10 @@
 # Quantum AI for Embodied Intelligence: A survey of Algorithms, Integration, and Evaluation
 
-This is the artifact of our article, titled "Quantum AI for Embodied Intelligence: A survey of Algorithms, Integration, and Evaluation". The artifact contains the data used in our experiments.
 
-During the Systematic Literature Review (SLR) process, we collected the data as follows: 
+This is the artifact of our article, titled "Quantum AI for Embodied Intelligence: A survey of Algorithms, Integration, and Evaluation". The artifact contains the data used in our survey.
 
-+ [`initial_searching_results.csv`](Data/initial_searching_results.csv): The initial searching results were collected from the four databases (IEEE Xplore, ACM Digital Library, Scopus, and Web of Science) using the search queries. We presented the 1312 searching results after removing duplicates. 
+During the Systematic Literature Review (SLR) process, we collected the data as follows:
 
-+ [`Extraction_Critera.md`](Data/Extraction_Critera.md): The extraction criteria were used to extract the relevant information from the selected papers to answer the research questions. We presented the extraction criteria in a markdown file for better readability.
-
-+ [`Label_Data.csv`](Data/Label_Data.csv): According to the extraction criteria, we labeled 127 selected primary studies. The labeled data were used for analysis and discussion in our article. 
+- [`initial_searching_results.csv`](Data/initial_searching_results.csv): The initial searching results collected from four databases (IEEE Xplore, ACM Digital Library, Scopus, and Web of Science) using the search queries in our article. We presented the 1312 searching results after removing duplicates.
+- [`Extraction_Critera.md`](Data/Extraction_Critera.md): The extraction criteria used to extract the relevant information from the selected papers to answer the research questions. We presented the extraction criteria in a markdown file for better readability.
+- [`Label_Data.csv`](Data/Label_Data.csv): The labeled data used for analysis and discussion in our article. We labeled 127 selected primary studies according to the extraction criteria. 
