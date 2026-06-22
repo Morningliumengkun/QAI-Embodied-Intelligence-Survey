@@ -10,13 +10,8 @@
     <td>1</td>
     <td>The paper is written in English.</td>
   </tr>
-  <tr>
-    <td>2</td>
-    <td>The paper targets specific software engineering (SE) optimization problems.</td>
-  </tr>
-  <tr>
     <td>3</td>
-    <td>The paper integrates quantum-related methods to solve SE optimization tasks.</td>
+    <td>The paper is relevant to EI integrated with quantum-related methods.</td>
   </tr>
   <tr>
     <td>4</td>
